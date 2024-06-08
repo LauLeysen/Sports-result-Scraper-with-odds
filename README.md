@@ -1,7 +1,21 @@
 ﻿# NBA-Scraper-with-odds
 
 ### Introduction
-This project is inspired by a curiosity-driven exploration into the world of sports betting, particularly focusing on the outcomes when betting solely on the home or away teams in basketball matches. This approach was driven by the question: "What would happen if you consistently bet on one side throughout the season?" Using a Python-based script, we scrape basketball match odds and results from a sports data website to analyze betting strategies over a series of games. Also don't mind the messy selenium code I was experimenting a bit.
+This project is inspired by a curiosity-driven exploration into the world of sports betting, particularly focusing on the outcomes when betting solely on the home or away teams in basketball matches. This approach was driven by the question: "What would happen if you consistently bet on one side throughout the season?" Using a Python-based script, we scrape basketball match odds and results from a sports data website to analyze betting strategies over a series of games.
+
+### EDIT
+I did the same for MLB now with an extra file data_analyzer that uses pandas library to go more in depth for the analysis.
+example output for scraped MLB matches in 2023 season:
+```
+cleaned_mlb_matches.xlsx
+All bets over: 2.1
+Total number of bets: 956
+The average of the away odds is: 2.57
+Win percentage when betting on away team with 2+ odds: 42.47%
+Total profit/loss from betting $10 on each match: $537.30
+Longest win streak: 6
+Longest loss streak: 11
+```
 
 ### Disclaimer
 The bets discussed in this project were not actually placed; all scenarios and results are simulated based on historical data for research and curiosity purposes only.
