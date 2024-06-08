@@ -1,0 +1,124 @@
+[
+    [
+        {
+            "start_date": "14 Apr 21:30",
+            "home_team": "Memphis Grizzlies",
+            "away_team": "Denver Nuggets",
+            "home_score": "111",
+            "away_score": "126",
+            "odd_href": "https://www.aiscore.com/basketball/match-memphis-grizzlies-denver-nuggets/6975lsn8rwmcgk2/odds",
+            "home_odd": "6.50",
+            "away_odd": "1.13"
+        },
+        {
+            "start_date": "14 Apr 21:30",
+            "home_team": "Minnesota Timberwolves",
+            "away_team": "Phoenix Suns",
+            "home_score": "106",
+            "away_score": "125",
+            "odd_href": "https://www.aiscore.com/basketball/match-minnesota-timberwolves-phoenix-suns/8lk2ys6930jaz73/odds",
+            "home_odd": "1.71",
+            "away_odd": "2.20"
+        },
+        {
+            "start_date": "14 Apr 21:30",
+            "home_team": "New Orleans Pelicans",
+            "away_team": "Los Angeles Lakers",
+            "home_score": "108",
+            "away_score": "124",
+            "odd_href": "https://www.aiscore.com/basketball/match-new-orleans-pelicans-los-angeles-lakers/63kvlso06zdfx7e/odds",
+            "home_odd": "1.80",
+            "away_odd": "2.05"
+        },
+        {
+            "start_date": "14 Apr 21:30",
+            "home_team": "Oklahoma City Thunder",
+            "away_team": "Dallas Mavericks",
+            "home_score": "135",
+            "away_score": "86",
+            "odd_href": "https://www.aiscore.com/basketball/match-oklahoma-city-thunder-dallas-mavericks/jek3psdym6xc9qo/odds",
+            "home_odd": "1.05",
+            "away_odd": "11.00"
+        },
+        {
+            "start_date": "14 Apr 21:30",
+            "home_team": "San Antonio Spurs",
+            "away_team": "Detroit Pistons",
+            "home_score": "123",
+            "away_score": "95",
+            "odd_href": "https://www.aiscore.com/basketball/match-san-antonio-spurs-detroit-pistons/o07dzsmenddimkn/odds",
+            "home_odd": "1.50",
+            "away_odd": "2.65"
+        },
+        {
+            "start_date": "14 Apr 21:30",
+            "home_team": "Golden State Warriors",
+            "away_team": "Utah Jazz",
+            "home_score": "123",
+            "away_score": "116",
+            "odd_href": "https://www.aiscore.com/basketball/match-golden-state-warriors-utah-jazz/vrqw9s960o8a47n/odds",
+            "home_odd": "1.18",
+            "away_odd": "5.00"
+        },
+        {
+            "start_date": "14 Apr 21:30",
+            "home_team": "Los Angeles Clippers",
+            "away_team": "Houston Rockets",
+            "home_score": "105",
+            "away_score": "116",
+            "odd_href": "https://www.aiscore.com/basketball/match-los-angeles-clippers-houston-rockets/ndqmrs3d9xourkv/odds",
+            "home_odd": "2.50",
+            "away_odd": "1.56"
+        },
+        {
+            "start_date": "14 Apr 21:30",
+            "home_team": "Sacramento Kings",
+            "away_team": "Portland Trail Blazers",
+            "home_score": "121",
+            "away_score": "82",
+            "odd_href": "https://www.aiscore.com/basketball/match-sacramento-kings-portland-trail-blazers/j374ws9v41ltgko/odds",
+            "home_odd": "1.05",
+            "away_odd": "12.00"
+        },
+        {
+            "start_date": "14 Apr 19:00",
+            "home_team": "Boston Celtics",
+            "away_team": "Washington Wizards",
+            "home_score": "132",
+            "away_score": "122",
+            "odd_href": "https://www.aiscore.com/basketball/match-boston-celtics-washington-wizards/jr7o9s32yxycg70/odds",
+            "home_odd": "1.26",
+            "away_odd": "4.10"
+        },
+        {
+            "start_date": "14 Apr 19:00",
+            "home_team": "Cleveland Cavaliers",
+            "away_team": "Charlotte Hornets",
+            "home_score": "110",
+            "away_score": "120",
+            "odd_href": "https://www.aiscore.com/basketball/match-cleveland-cavaliers-charlotte-hornets/9gkl6s6v5ljtmkx/odds",
+            "home_odd": "1.09",
+            "away_odd": "8.00"
+        },
+        {
+            "start_date": "14 Apr 19:00",
+            "home_team": "Indiana Pacers",
+            "away_team": "Atlanta Hawks",
+            "home_score": "157",
+            "away_score": "115",
+            "odd_href": "https://www.aiscore.com/basketball/match-indiana-pacers-atlanta-hawks/ndkzysnr2mvix73/odds",
+            "home_odd": "1.09",
+            "away_odd": "8.00"
+        },
+        {
+            "start_date": "14 Apr 19:00",
+            "home_team": "Miami Heat",
+            "away_team": "Toronto Raptors",
+            "home_score": "118",
+            "away_score": "103",
+            "odd_href": "https://www.aiscore.com/basketball/match-miami-heat-toronto-raptors/527rjswp30xh4ke/odds",
+            "home_odd": "1.06",
+            "away_odd": "10.50"
+        }
+    ]
+]
