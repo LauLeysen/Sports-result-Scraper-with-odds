@@ -1,7 +1,7 @@
 ﻿# NBA-Scraper-with-odds
 
 ### Introduction
-This project is inspired by a curiosity-driven exploration into the world of sports betting, particularly focusing on the outcomes when betting solely on the home or away teams in basketball matches. This approach was driven by the question: "What would happen if you consistently bet on one side throughout the season?" Using a Python-based script, we scrape basketball match odds and results from a sports data website to analyze betting strategies over a series of games.
+This project is inspired by a curiosity-driven exploration into the world of sports betting, particularly focusing on the outcomes when betting solely on the home or away teams in basketball matches. This approach was driven by the question: "What would happen if you consistently bet on one side throughout the season?" Using a Python-based script, we scrape basketball match odds and results from a sports data website to analyze betting strategies over a series of games. We scrape [AI score ](https://www.aiscore.com) and the pre match odds(mostly bet365) / results and calculate whatever we want to know.
 
 ### EDIT
 I did the same for MLB now with an extra file data_analyzer that uses pandas library to go more in depth for the analysis.
