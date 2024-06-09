@@ -99,11 +99,11 @@ class WebNavigator:
                     self.driver.get("https://www.aiscore.com" + odd_href['href'] + "/odds")
 
                     try:
-                        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "#app > div.innerMatchInfo.detail.view.border-box > div:nth-child(4) > div > div.newOdds > div:nth-child(3) > div > div.flex-1 > div > div:nth-child(1) > div.box.flex.w100.brr.preMatchBg1")))
+                        WebDriverWait(self.driver, 3).until(EC.presence_of_element_located((By.CSS_SELECTOR, "#app > div.innerMatchInfo.detail.view.border-box > div:nth-child(4) > div > div.newOdds > div:nth-child(3) > div > div.flex-1 > div > div:nth-child(1) > div.box.flex.w100.brr.preMatchBg1")))
 
                         # Improved wait condition: Wait until the text changes from "-" and is non-empty
                         odds_selector = "#app > div.innerMatchInfo.detail.view.border-box > div:nth-child(4) > div > div.newOdds > div:nth-child(3) > div > div.flex-1 > div > div:nth-child(1) > div.box.flex.w100.brr.preMatchBg1"
-                        WebDriverWait(self.driver, 3).until(
+                        WebDriverWait(self.driver, 1.5).until(
                             lambda driver: driver.find_element(By.CSS_SELECTOR, odds_selector).text.strip() != '-' and
                                         driver.find_element(By.CSS_SELECTOR, odds_selector).text.strip() != "")
 
@@ -152,7 +152,7 @@ def save_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def main():
-    url = "https://www.aiscore.com/baseball/tournament-major-league-baseball/xo17pnc0dgs3kjw/matches/m2q1oceo0lfxk6x"
+    url = "https://www.aiscore.com/baseball/tournament-major-league-baseball/xo17pnc0dgs3kjw/matches/edq0pcpn1ntd7xg"
     selector_type = "#app > div.competition.view.border-box > div:nth-child(3) > div > div > div > ul > li.number.active"
     pagination_selector = "#app > div.competition.view.border-box > div:nth-child(3) > div > div > div > ul > li:nth-child(8)"
     next_button_selector = "#app > div.competition.view.border-box > div:nth-child(3) > div > div > div > button.btn-next"
